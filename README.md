@@ -33,21 +33,21 @@ Sistem parkir sederhana yang dibangun dengan menggunakan .NET 8. Proyek ini meng
    
 2. Clone repository ini ke komputer lokal Anda:
 
-   ```bash
-   git clone https://github.com/username/ParkingSystem.git
-  ``
+    ```bash
+    git clone https://github.com/username/ParkingSystem.git
+    ```
 3. Masuk ke direktori proyek:
-  ```bash
-  cd ParkingSystem
-  ```
+    ```bash
+    cd ParkingSystem
+    ```
 4. Restore dependensi proyek:
-   ```bash
-   dotnet restore
-  ``
+    ```bash
+    dotnet restore
+    ```
 5. Build dan jalankan proyek:
-  ```bash
-  dotnet run
-  ```
+    ```bash
+    dotnet run
+    ```
 
 ## Penggunaan
 1. Check-In: Input nomor polisi kendaraan dan jenis kendaraan (Mobil atau Motor). Sistem akan menampilkan biaya parkir dan mengalokasikan lot yang tersedia.
